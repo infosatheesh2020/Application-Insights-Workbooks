@@ -139,6 +139,7 @@
         "size": 0,
         "title": "Devices for: {_SelectedErrorCode}",
         "queryType": 0,
+        "showExportToExcel": true,
         "resourceType": "microsoft.operationalinsights/workspaces",
         "crossComponentResources": [
           "{mappedWorkspace}"
